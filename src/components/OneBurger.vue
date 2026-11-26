@@ -3,7 +3,7 @@
   <h2> 
     {{ burger.name }} 
   </h2>
-  <img v-bind:src="burger.url" style="width: 200px; height: 200px;">
+  <img v-bind:src="burger.img" style="width: 200px; height: 200px;">
   <p>
   Ingredients:
   </p>
