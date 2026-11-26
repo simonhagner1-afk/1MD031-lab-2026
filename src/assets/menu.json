@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Truffle Burger",
+        "kCal": 500,
+        "lactose": true,
+        "gluten": true,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdlxcjzoOwhyWrqZg8DMTV6Ki5lQHoFLX5qHzA8kCrA&s"
+    },
+    {
+        "name": "Original Burger",
+        "kCal": 400,
+        "lactose": true,
+        "gluten": false,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5aMdcNJ23DHijcsKKj1XIsarkuJlGYx9BBJbdLGiReQ&s=10"
+    },
+    {
+        "name": "Vegan Burger",
+        "kCal": 300,
+        "lactose": false,
+        "gluten": false,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmLq9fLWln8Rqh-p9w8LslhQ0J_3aHyuQTSUSMU7eVg&s=10"
+    }
+]
